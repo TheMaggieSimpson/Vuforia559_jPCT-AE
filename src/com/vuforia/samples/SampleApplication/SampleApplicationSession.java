@@ -380,7 +380,7 @@ public class SampleApplicationSession implements UpdateCallbackInterface {
             synchronized (mShutdownLock)
             {
                 Vuforia.setInitParameters(mActivity, mVuforiaFlags,
-                		"ATGX0Qn/////AAAAAU1k72zuq06/v96EuHqIDEqMGFzjZHuA+yHPnEQd7dfmQVEbCztC6/pLztvCuJtp4A+7Z79b9s7FdKYDCPDM4qs/tALVpMSlzHhpgmAvJj8Jv4wYoYV4oPdEqmoN8grhTzk3QdqmvYiHV4glXTqJ2e7izn1jxPlQBW8me5sAiW7sUDs3iICqxnOHg2HOAIWAjKT3o7g9XYH4/bayRMtU0o8MUqpzle1NZRObT1bMcgs1soRxPphQM1QM2t0ltnOyPxE5ipHymEhw5IK61HKnicwi54wos+4sU9e1agY9HGvOfOsBSsV7tOPS/FNh5Tny9+qjEFoX/b8uYDHqQDPSM8PRupxXLNwD3DX/aOVXgP8X");
+                		"put-your-personal-key-here");
                 
                 do
                 {
