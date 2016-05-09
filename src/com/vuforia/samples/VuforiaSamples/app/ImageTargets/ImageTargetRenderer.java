@@ -170,9 +170,7 @@ public class ImageTargetRenderer implements GLSurfaceView.Renderer
         mActivity.loadingDialogHandler
             .sendEmptyMessage(LoadingDialogHandler.HIDE_LOADING_DIALOG);
     }
-    
-    // jpct-ae
-    // NOTE: cocokin sama cpp - DONE
+   
     private void updateRendering(int width, int height) {
     	
     	// Update screen dimensions
