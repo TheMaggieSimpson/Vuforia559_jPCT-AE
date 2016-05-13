@@ -573,7 +573,7 @@ public class SampleApplicationSession implements UpdateCallbackInterface {
         {
             case Configuration.ORIENTATION_PORTRAIT:
                 mIsPortrait = true;
-                break; // RS: sampe sini msh PORTRAIT
+                break;
             case Configuration.ORIENTATION_LANDSCAPE:
                 mIsPortrait = false;
                 break;
