@@ -6,7 +6,7 @@ Integrating jPCT-AE with Vuforia 5.5.9
 - Please use your own Vuforia personal key. Login to developer.vuforia.com and create one for free.
 - To change image target: https://developer.vuforia.com/forum/faq/android-how-do-i-replace-dataset-image-targets-sample
 - To load your own 3D object and textures: http://www.jpct.net/wiki/index.php?title=Loading_models
-- Demo short-video: http://sendvid.com/234400pz
+- Demo short-video: https://youtu.be/Me70333lGXc
 
 #### References:
 - http://www.jpct.net/wiki/index.php?title=Integrating_JPCT-AE_with_Vuforia
